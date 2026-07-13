@@ -14,8 +14,9 @@ Contributors:
 
   - Role: Local Music Library Implementation & Main Player's Playback Control
 - **[Muhammad Faizan](https://github.com/faizan11218/)**
+**
   - Role: Data Structures and Algorithms Implementation &
-  - Ahad aziz
+  - **[Ahad aziz]**
   - github.com/AhadAzizkhan
   - Project Representative
 

@@ -11,12 +11,12 @@ For documentation of the source code, visit [Source Code's JavaDoc](https://krys
 Contributors:
 
 - **[Talha Nizamani](https://github.com/krystaldevv/)**
-  - Role: Spotify API Integration & GitHub Maintainence
-- **[Liza Khawaja](https://github.com/lizakhawaja/)**
+
   - Role: Local Music Library Implementation & Main Player's Playback Control
 - **[Muhammad Faizan](https://github.com/faizan11218/)**
-  - Role: Data Structures and Algorithms Implementation & UML
-- **[Muhammad Anas]()**
+  - Role: Data Structures and Algorithms Implementation &
+  - Ahad aziz
+  - github.com/AhadAzizkhan
   - Project Representative
 
 
